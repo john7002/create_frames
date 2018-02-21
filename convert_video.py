@@ -1,5 +1,5 @@
 #you can check the frame rate by VLC. Go to windows -> media information -> codec details
-
+# Based on Tobi Lehman script https://tobilehman.com/blog/2013/01/20/extract-array-of-frames-from-mp4-using-python-opencv-bindings/
 import sys
 import argparse
 
